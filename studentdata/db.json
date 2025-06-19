@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Mitanshu",
+      "place": "indore",
+      "phone": "8788969619"
+    },
+    {
+      "id": "4",
+      "name": "atharv",
+      "place": "mumbai",
+      "phone": "8754698475"
+    },
+    {
+      "id": "5",
+      "name": "sarthak",
+      "place": "pune",
+      "phone": "7874592178"
+    },
+    {
+      "id": "5",
+      "name": "tushar",
+      "place": "surat",
+      "phone": "9272124388"
+    },
+    {
+      "id": "6",
+      "name": "rohan",
+      "place": "nandurbar",
+      "phone": "7845963215"
+    }
+  ]
+}
